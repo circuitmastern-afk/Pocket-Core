@@ -42,3 +42,6 @@ The project is currently in the PCB design stage. The schematic and PCB layout f
 - Hardware testing and enclosure design
 
 *Pocket Core is a work in progress and has not yet been fully assembled or tested.*
+
+
+<img width="1295" height="542" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/9a592b3f-7cdd-474f-8df2-a833f99e2fd1" />
